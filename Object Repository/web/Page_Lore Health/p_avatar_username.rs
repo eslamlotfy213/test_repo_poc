@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_avatar_username</name>
+   <tag></tag>
+   <elementGuidId>13dd31d7-545f-4b25-b96a-4b70b22b7de8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.chakra-text.css-9ar98d</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='avatar_user_name']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>512b265e-14f6-41f2-8a22-7832aa9e4678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-text css-9ar98d</value>
+      <webElementGuid>f33bb72e-1d1d-4722-bf91-0fa727ca6a37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HeroGirl20</value>
+      <webElementGuid>a3044965-f4ef-47aa-a04e-044d2412a55d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;avatar_user_name&quot;)/p[@class=&quot;chakra-text css-9ar98d&quot;]</value>
+      <webElementGuid>036b9942-a9d3-4d37-91e2-b5779c37e2d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='avatar_user_name']/p</value>
+      <webElementGuid>6894c556-892e-4b3c-ac00-91bc97d75039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Features'])[1]/following::p[1]</value>
+      <webElementGuid>4b53b2ff-b49c-4f0b-9f51-388eb3114064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::p[2]</value>
+      <webElementGuid>1df5c51a-ba31-477d-9ab5-7f51a028c55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of use'])[1]/preceding::p[3]</value>
+      <webElementGuid>a41a6fb9-f04c-4715-a907-745b53130c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HeroGirl20']/parent::*</value>
+      <webElementGuid>bde415b7-952b-4cc3-b16b-164a4d5b4bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8632a402-4bd3-44dc-ae6c-7e2fa49b3c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'HeroGirl20' or . = 'HeroGirl20')]</value>
+      <webElementGuid>0e9f929a-6147-45f2-b8dc-dcf1aaa45be3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

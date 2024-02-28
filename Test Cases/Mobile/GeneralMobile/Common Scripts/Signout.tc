@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Signout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af2565a6-307e-4f76-aa0b-97c377429372</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9323260e-a3d0-4566-8400-fe30015764bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1750</defaultValue>
+      <description></description>
+      <id>9323260e-a3d0-4566-8400-fe30015764bf</id>
+      <masked>false</masked>
+      <name>MoveToY</name>
+   </variable>
+</TestCaseEntity>

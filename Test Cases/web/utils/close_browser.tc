@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>close browser after execution</description>
+   <name>close_browser</name>
+   <tag>launch_browser</tag>
+   <comment></comment>
+   <testCaseGuid>18f872d0-1824-4d4f-b782-584cfaa56f8f</testCaseGuid>
+</TestCaseEntity>

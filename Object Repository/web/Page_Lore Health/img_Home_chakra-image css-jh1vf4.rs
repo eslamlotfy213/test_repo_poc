@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Home_chakra-image css-jh1vf4</name>
+   <tag></tag>
+   <elementGuidId>6e633dfd-7069-431d-aa70-32f3b8f25ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.chakra-image.css-jh1vf4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>40042953-b6c9-4511-96ad-717c252ba13f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/LoreLogoH.7ec92f780f9c5ef036b8f7f8993f4dee.svg</value>
+      <webElementGuid>b0fb1429-18e9-4acd-83cd-5e789ceea81c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-image css-jh1vf4</value>
+      <webElementGuid>604ada6c-faa2-48e7-85ab-ba7f3a83d236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-patx7f&quot;]/div[@class=&quot;css-1jrrd2e&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-ag2sj5&quot;]/img[@class=&quot;chakra-image css-jh1vf4&quot;]</value>
+      <webElementGuid>82f4fcbe-a61a-4268-9824-f74b3b7dcbf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/img</value>
+      <webElementGuid>3bbefa87-98f5-4214-bcec-3c721ee7ff3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/img</value>
+      <webElementGuid>b5456ded-1c27-49c7-948f-c7b99ad66a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/LoreLogoH.7ec92f780f9c5ef036b8f7f8993f4dee.svg']</value>
+      <webElementGuid>6808fd0a-8570-44fc-ba9c-84e8366cb426</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>from homepage going to profile page</description>
+   <name>go_to_profile</name>
+   <tag>gotoprofile</tag>
+   <comment></comment>
+   <testCaseGuid>82e2dd5a-b885-494c-97df-e534dab4ba91</testCaseGuid>
+</TestCaseEntity>

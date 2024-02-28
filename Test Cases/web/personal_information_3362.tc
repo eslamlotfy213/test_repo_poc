@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>3362:  [Community][Account] Validate that recent changes applied to accounts fields re-loaded with page refresh</description>
+   <name>personal_information_3362</name>
+   <tag>personalinformaton3362</tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>aac8f910-5bae-430d-ac14-6ffcab48b09b</testCaseGuid>
+</TestCaseEntity>

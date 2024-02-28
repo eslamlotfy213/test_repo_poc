@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Guest</name>
+   <tag></tag>
+   <elementGuidId>3ffef1d3-4b1b-4d72-bac1-7b02edf07b3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.chakra-text.css-1nodh2t</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Guest' or . = 'Guest')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>20ea55a5-876e-4d03-bede-9cc0ed471a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-text css-1nodh2t</value>
+      <webElementGuid>cd3094b3-838f-41b4-9c8f-9dedfc11a128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guest</value>
+      <webElementGuid>8952fb21-73ca-4ec6-880d-2b4fe6ec3109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-patx7f&quot;]/div[@class=&quot;css-1jrrd2e&quot;]/div[@class=&quot;pageMainContent css-1fy63ua&quot;]/div[@class=&quot;css-1w5fay2&quot;]/div[@class=&quot;chakra-stack css-jbvvsx&quot;]/div[@class=&quot;css-1gm93ma&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-15j4an3&quot;]/div[@class=&quot;chakra-stack css-ig8uaz&quot;]/div[@class=&quot;chakra-stack css-198f9j2&quot;]/div[@class=&quot;chakra-stack css-84zodg&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1l0z8uk&quot;]/div[1]/p[@class=&quot;chakra-text css-1nodh2t&quot;]</value>
+      <webElementGuid>b0387a85-f932-422a-90f0-a20f4290604d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div/div/p</value>
+      <webElementGuid>902fa891-d6ea-407c-81d1-a918a167e937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::p[1]</value>
+      <webElementGuid>415ee6f4-cfa4-43a3-862c-3a2e0521868e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::p[1]</value>
+      <webElementGuid>45c43c74-2266-4b69-9a7d-82e213bc6076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::p[1]</value>
+      <webElementGuid>70237c84-84a0-4a22-b5e7-0a385ad270a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an account'])[1]/preceding::p[2]</value>
+      <webElementGuid>62266c11-531a-4aa5-b1b9-a25fa7a83ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Guest']/parent::*</value>
+      <webElementGuid>28f025fd-65df-4555-990c-a8c98f1fc972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>5fbefb8b-4815-42c7-8745-e20ecef66138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Guest' or . = 'Guest')]</value>
+      <webElementGuid>d973a926-34fc-468c-ad09-0b6168bc4742</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NewPostReplyScenarioWithoutSearchAndSignout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38031e6b-812e-4e20-902a-fe995d2eab51</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>100475ab-5e65-4067-9537-481a6992454f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'&quot;&quot;'</defaultValue>
+      <description></description>
+      <id>100475ab-5e65-4067-9537-481a6992454f</id>
+      <masked>false</masked>
+      <name>ToDayDate</name>
+   </variable>
+</TestCaseEntity>

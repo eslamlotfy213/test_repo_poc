@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7970_NewPostReplyScenario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>760aa73f-1ebf-41d3-b165-b7770f109e76</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85e28c71-3f92-49bf-ad01-63dd738c1e3f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'&quot;&quot;'</defaultValue>
+      <description></description>
+      <id>85e28c71-3f92-49bf-ad01-63dd738c1e3f</id>
+      <masked>false</masked>
+      <name>ToDayDate</name>
+   </variable>
+</TestCaseEntity>

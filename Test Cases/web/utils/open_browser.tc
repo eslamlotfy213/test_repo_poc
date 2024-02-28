@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open browser</description>
+   <name>open_browser</name>
+   <tag>openbrowser</tag>
+   <comment></comment>
+   <testCaseGuid>d7df2d70-f88d-4830-a50a-dd21d2b4851a</testCaseGuid>
+</TestCaseEntity>
