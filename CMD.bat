@@ -1,0 +1,1 @@
+katalonc -noSplash -runMode=console -projectPath="C:\Users\Eslam.Lotfy\Katalon Studio\Web Test\Web Test.prj" -retry=0 -testSuiteCollectionPath="Test Suites/New Test Suite Collection" -apiKey="a4da89ba-1d7a-4112-8553-6b300098ecc2" --config -proxy.auth.option=NO_PROXY -proxy.system
